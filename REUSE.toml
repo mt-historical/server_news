@@ -1,0 +1,25 @@
+version = 1
+
+# Source Code
+[[annotations]]
+path = [
+	"init.lua",
+]
+SPDX-FileCopyrightText = [
+    "2018 Shara RedCat"
+]
+SPDX-License-Identifier = "MIT"
+
+# Metadata/config files
+[[annotations]]
+path = [
+    ".luacheckrc",
+    ".github/**",
+    ".gitattributes",
+    ".cdb.json",
+    "README.md",
+    "mod.conf",
+		"settingtypes.txt"
+]
+SPDX-FileCopyrightText = "NONE"
+SPDX-License-Identifier = "CC0-1.0"

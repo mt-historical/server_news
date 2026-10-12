@@ -1,5 +1,5 @@
 # The news file name / path
-news.file_name (The file the news willbe read from and written to) string news.txt
+news.file_name (The file the news will be read from and written to) string news.txt
 
 # Permission to bypass news
 news.bypass_permission (Bypass news: Required privs) string news_bypass
